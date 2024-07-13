@@ -1,2 +1,2 @@
-# iLF-MIMO
-A tutorial for the improved Loewner Framework for modal analysis.
+# A tutorial for the improved Loewner Framework for modal analysis
+
