@@ -23,8 +23,9 @@
 % 10.1155/2023/1891062>.
 % 
 % [3] G. Dessena, 'A tutorial for the improved Loewner Framework for modal analysis', 
-% Software, Universidad Carlos III de Madrid, 2024. doi: _in registration_. Available 
-% at: _in registration_.
+% Software, Universidad Carlos III de Madrid, 2024. doi: <https://doi.org/10.5281/zenodo.13863292 
+% 10.5281/zenodo.13863292>. Available at: <https://zenodo.org/records/zenodo.13863292 
+% https://zenodo.org/records/zenodo.13863292>.
 % The Model
 % The model is a sample system provided with MATLAB releases and consists of 
 % a two-input/three-output system excited by several bursts of random noise (see 
@@ -175,7 +176,9 @@ vpa(round(compute_mac(ms0,id.ident(3:end,:)),3),3)
 % 10.48550/arXiv.2408.03810>.
 % 
 % [2] G. Dessena, 'A tutorial for the improved Loewner Framework for modal analysis', 
-% Software, Universidad Carlos III de Madrid, 2024. doi: . Available at:
+% Software, Universidad Carlos III de Madrid, 2024. <https://doi.org/10.5281/zenodo.13863292 
+% 10.5281/zenodo.13863292>. Available at: <https://zenodo.org/records/zenodo.13863292 
+% https://zenodo.org/records/zenodo.13863292>.
 % 
 % [3] G. Dessena, M. Civera, L. Zanotti Fragonara, D. I. Ignatyev, and J. F. 
 % Whidborne, ‘A Loewner-Based System Identification and Structural Health Monitoring 
@@ -191,7 +194,7 @@ vpa(round(compute_mac(ms0,id.ident(3:end,:)),3),3)
 % 
 % [5] G. Dessena, M. Civera, A. Pontillo, D. I. Ignatyev, J. F. Whidborne, and 
 % L. Zanotti Fragonara, ‘Noise-robust Modal Parameter Identification and Damage 
-% Assessment for Aero-structures’, _submitted to_ Aircraft Engineering and Aerospace 
-% Technology, 2024.
+% Assessment for Aero-structures’, Aircraft Engineering and Aerospace Technology, 
+% Aug. 2024. doi: <https://doi.org/10.1108/AEAT-06-2024-0178 10.1108/AEAT-06-2024-0178>.
 % 
 %

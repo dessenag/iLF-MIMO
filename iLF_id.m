@@ -75,8 +75,9 @@ function [id,model,fit] = iLF_id(FRF,si,nn)
 %      Preprint, (2024). Available at: https://arxiv.org/abs/2408.03810
 %      (DOI: 10.48550/arXiv.2408.03810)
 % [2] G. Dessena, A tutorial for the improved Loewner Framework for modal 
-%     analysis, Universidad Carlos III de Madrid,(2024).
-%     (DOI: -)
+%     analysis, Universidad Carlos III de Madrid,(2024). Available at:
+%     https://zenodo.org/records/zenodo.13863292
+%     (DOI: 10.5281/zenodo.13863292)
 % [3] G. Dessena, M. Civera, L. Zanotti Fragonara, D. I. Ignatyev, J. F. 
 %     Whidborne, A Loewner-based system identification and structural 
 %     health monitoring approach for mechanical systems, Structural 
