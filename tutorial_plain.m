@@ -16,8 +16,15 @@
 % Multi-output Modal Analysis of a Full Aircraft', _preprint_, 2024, doi: <https://arxiv.org/abs/2408.03810 
 % 10.48550/arXiv.2408.03810>.
 % 
-% [2] G. Dessena, 'A tutorial for the improved Loewner Framework for modal analysis', 
-% Software, Universidad Carlos III de Madrid, 2024. doi: . Available at:
+% [2] G. Dessena, M. Civera, L. Zanotti Fragonara, D. I. Ignatyev, and J. F. 
+% Whidborne, ‘A Loewner-Based System Identification and Structural Health Monitoring 
+% Approach for Mechanical Systems’, Structural Control and Health Monitoring, 
+% vol. 2023. Hindawi Limited, pp. 1–22, Apr. 18, 2023. doi: <https://onlinelibrary.wiley.com/doi/10.1155/2023/1891062 
+% 10.1155/2023/1891062>.
+% 
+% [3] G. Dessena, 'A tutorial for the improved Loewner Framework for modal analysis', 
+% Software, Universidad Carlos III de Madrid, 2024. doi: _in registration_. Available 
+% at: _in registration_.
 % The Model
 % The model is a sample system provided with MATLAB releases and consists of 
 % a two-input/three-output system excited by several bursts of random noise (see 
