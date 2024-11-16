@@ -76,9 +76,10 @@ function [LL,sLL,mu,la,V,W] = iLF(s,F,varargin)
 % -Implemented new way to transform coordinates
 %% References
 % [1] G. Dessena, M. Civera, Improved Tangential Interpolation-based 
-%      Multi-input Multi-output Modal Analysis of a Full Aircrafts, 
-%      Preprint, (2024). Available at: https://arxiv.org/abs/2408.03810
-%      (DOI: 10.48550/arXiv.2408.03810)
+%     Multi-input Multi-output Modal Analysis of a Full Aircrafts, 
+%     European Journal of Mechanics / A Solids, (2025). 
+%     Available at: https://doi.org/10.1016/j.euromechsol.2024.105495
+%     (DOI: 10.1016/j.euromechsol.2024.105495)
 % [2] G. Dessena, A tutorial for the improved Loewner Framework for modal 
 %     analysis, Universidad Carlos III de Madrid,(2024).
 %     Available at: https://zenodo.org/records/zenodo.13863292
