@@ -20,7 +20,7 @@ The tutorial illustrates, via a simple example, the capability of the improved L
 - [tutorial.mlx](/tutorial.mlx): MATLAB tutorial for the extraction of modal parameters via iLF in MATLAB live format.
 - [tutorial.pdf](/tutorial.pdf): PDF print-out of the tutorial above
 - [tutorial_plain.m](/tutorial_plain.m): MATLAB tutorial for the extraction of modal parameters via iLF in MATLAB .m format.
-- [Utilities](/Utilities): compute_mac.m function to compute the MAC value between to set of modes
+- [Utilities](/Utilities): compute_mac.m function computes the MAC value between two set of modes
 
 ## Repository Citation
 
