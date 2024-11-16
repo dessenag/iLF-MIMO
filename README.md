@@ -4,7 +4,7 @@
 
 This repo contains the code for the article:
 
-G. Dessena and M. Civera, ‘Improved Tangential Interpolation-based Multi-input Multi-output Modal Analysis of a Full Aircraft’, 	arXiv, arXiv:2408.03810, Aug. 2024. doi: [10.48550/arXiv.2408.03810](https://doi.org/10.48550/arXiv.2408.03810).
+G. Dessena and M. Civera, ‘Improved Tangential Interpolation-based Multi-input Multi-output Modal Analysis of a Full Aircraft’, European Journal of Mechanics - A/Solids, vol. 109. Elsevier BV, p. 105495, Jan. 2025. doi: [10.1016/j.euromechsol.2024.105495](https://doi.org/10.1016/j.euromechsol.2024.105495).
 
 When using this code for your work or research please cite the following:
 
